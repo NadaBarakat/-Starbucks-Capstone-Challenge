@@ -40,7 +40,6 @@ and Answer following questions:
 
 This github repo contains
 - \data
-    - info_about_data.md : This file contains all detail about dataset used.(since dataset size >20Mb I have mentioned only detail)
 - Starbucks_Capstone_notebook.ipynb: Jupyter notebook of project.
 - Starbucks_Capstone_notebook.html: html version of jupyter notebook
 - README.md : contain every detail about the project.
