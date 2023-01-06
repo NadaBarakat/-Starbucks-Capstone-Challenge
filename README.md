@@ -41,13 +41,11 @@ and Answer following questions:
 This github repo contains
 - \data
 - Starbucks_Capstone_notebook.ipynb: Jupyter notebook of project.
-- Starbucks_Capstone_notebook.html: html version of jupyter notebook
 - README.md : contain every detail about the project.
-- Blog.md : contains Blog in markdown format
 
 ## summary of the project <a name="summary"></a>
 
-The main findings of the code can be found at the post available [here](https://kirankamath.hashnode.dev/predicting-starbucks-offer-success-and-finding-most-relevant-factors-for-offer-success).
+The main findings of the code can be found at the post available [here](#TODO).
 
 In short summary is 
 - The AdaBoost classification model is used to predict whether an offer is going to be successfully completed based on customer and offer characteristics. The final model has an accuracy of 67%.  
