@@ -1,6 +1,6 @@
 # Starbucks-Capstone-Challenge
 
-Blog link [here](https://kirankamath.hashnode.dev/predicting-starbucks-offer-success-and-finding-most-relevant-factors-for-offer-success)
+Blog link [here](https://usplatforms.blogspot.com/2023/01/predicting-starbucks-offer-success-and.html)
  
 ### Table of Contents
 
@@ -45,7 +45,7 @@ This github repo contains
 
 ## summary of the project <a name="summary"></a>
 
-The main findings of the code can be found at the post available [here](#TODO).
+The main findings of the code can be found at the post available [here](https://usplatforms.blogspot.com/2023/01/predicting-starbucks-offer-success-and.html).
 
 In short summary is 
 - The AdaBoost classification model is used to predict whether an offer is going to be successfully completed based on customer and offer characteristics. The final model has an accuracy of 67%.  
